@@ -58,7 +58,11 @@ public class Person {
             "id=" + id +
             ", firstName='" + firstName + '\'' +
             ", lastName='" + lastName + '\'' +
+<<<<<<< HEAD
             ", id='" + id + '\'' +
+=======
+            ", ID='" + getId + '\'' +
+>>>>>>> 906b5e9 (upadate Person.java: add getID)
             '}';
     }
 }
